@@ -6,8 +6,6 @@ public class Book {
         this.title = title;
         this.pages = pages;
     }
-
-
     public String getTitle() {
         return title;
     }

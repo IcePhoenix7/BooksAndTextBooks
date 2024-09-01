@@ -13,7 +13,7 @@ public class Textbook extends Book{
 
     @Override
     public String toString() {
-        return "Textbook: " + super.getTitle() + ", # pages = " + super.getPages() + " Course = " + getCourse();
+        return "Text Book: " + super.getTitle() + ", # pages = " + super.getPages() + ", Course = " + getCourse();
     }
 }
 
